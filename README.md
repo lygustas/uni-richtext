@@ -2,6 +2,7 @@
 uni-app 富文本组件
 [git地址](https://github.com/lygustas/uni-richtext)
 
+（此编辑器仅适用移动端，chrome请按F12模拟手机设备进行浏览）
 [demo](http://120.78.87.84:8080/richtext/#/)
 
 说明：打包为h5需要进入项目根目录执行 
